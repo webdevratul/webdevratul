@@ -6,7 +6,7 @@ Meet a skilled Front-End Web Artisan who crafts captivating digital experiences 
 
 Skills: HTML5, CSS3, JavaScript, jQuery, React.js, Tailwindcss, Bootstrap, SCSS, Git and GitHub
 
-- 🔭 I’m currently working on this page. 
+ 
 
 
 
