@@ -6,7 +6,7 @@ Meet a skilled Front-End Web Artisan who crafts captivating digital experiences 
 
 Skills: HTML/CSS/JavaScript/jQuery/React.js/Tailwindcss/Bootstrap/SCSS/Git and GitHub.
 
-- 🔭 I’m currently working on Frontend Web Development 
+- 🔭 I’m currently working as a Frontend Web Developer 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about any confusion 
