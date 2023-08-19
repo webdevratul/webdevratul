@@ -12,7 +12,7 @@ Skills: HTML/CSS/JavaScript/jQuery/React.js/Tailwindcss/Bootstrap/SCSS/Git and G
 - 🔭 I’m currently working as a Frontend Web Developer 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
-- 💬 Ask me about any confusion 
+- 💬 Ask me about Web Development 
 
  
 
