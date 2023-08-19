@@ -15,7 +15,6 @@ Skills: HTML/CSS/JavaScript/jQuery/React.js/Tailwindcss/Bootstrap/SCSS/Git and G
 - 💬 Ask me about Web Development
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webdevratul)](https://github.com/anuraghazra/github-readme-stats)
 
 
  
