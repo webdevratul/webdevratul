@@ -5,7 +5,7 @@
 
 ![This is Mahibul Islam Ratul](https://www.linkpicture.com/q/git-hub-banner.png)
 
-Meet a skilled Front-End Web Artisan who crafts captivating digital experiences with a palette of HTML, CSS, and JavaScript. With a dash of creativity and a sprinkle of innovation, this developer weaves responsive designs that dance effortlessly across screens of all sizes. Armed with the power of jQuery and the elegance of Tailwind CSS, they sculpt user-friendly interfaces that leave visitors in awe. From the structured foundations of Bootstrap to the dynamic landscapes of React.js, their expertise is a symphony of code and design, transforming concepts into interactive realities.
+I am a versatile and dynamic developer with a mastery of the digital realm. From crafting captivating user interfaces using HTML, CSS, and the finesse of Tailwind and Bootstrap, to adding interactivity through the enchanting dance of JavaScript and jQuery, I am a maestro of the web's visual symphony. But my skills don't stop there—I harness the power of React.js to build immersive user experiences, while Node.js and Express.js are my trusted companions in crafting robust backends. With MongoDB, I sculpt data into meaningful stories. In me, technology finds its muse, and together, we paint the digital canvas with innovation and creativity.
 
 Skills: HTML/CSS/JavaScript/jQuery/React.js/Tailwindcss/Bootstrap/SCSS/Git and GitHub.
 
