@@ -9,7 +9,7 @@ I am a versatile and dynamic developer with a mastery of the digital realm. From
 
 Skills: HTML/CSS/JavaScript/jQuery/React.js/Next.js/Tailwindcss/Bootstrap/SCSS/Node.js/express.js/MongoDB/Prisma/Firebase/Git and GitHub.
 
-- 🔭 I’m currently working as a Frontend Web Developer 
+- 🔭  I am a Full-Stack Web Developer with a MEARN foundation 
 - 🌱 I’m currently learning JavaScript
 - 👯 I’m looking to collaborate on GitHub 
 - 💬 Ask me about Web Development
