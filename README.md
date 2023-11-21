@@ -8,7 +8,7 @@ I am a versatile and dynamic developer with a mastery of the digital realm. From
 
 Skills: HTML/CSS/JavaScript/React.js/Next.js/Tailwindcss/Bootstrap/Node.js/express.js/MongoDB/Prisma/Firebase/Git and GitHub.
 
-- 🔭 I am a Full-Stack Web Application Developer with a MERN foundation.
+- 🔭 I am a Full-Stack Web Application Developer with a strong foundation.
 - 🌱 I’m still learning too many things about Web Application Development.
 - 👯 I’m looking to collaborate on GitHub.
 - 💬 Ask me about Web Application Development.
