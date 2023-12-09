@@ -3,6 +3,7 @@
 ## This is Mahibul Islam Ratul 🥰
 # Front End Web Application Developer 👨‍💻
 
+(https://github.com/webdevratul/webdevratul/blob/main/github-banner.png?raw=true)
 
 I am a versatile and dynamic developer with a mastery of the digital realm. From crafting captivating user interfaces using HTML, CSS, and the finesse of Tailwind and Bootstrap, to adding interactivity through the enchanting dance of JavaScript, I am a maestro of the web's visual symphony. But my skills don't stop there—I harness the power of React.js to build immersive user experiences, while Node.js and Express.js are my trusted companions in crafting robust backends. With MongoDB, I sculpt data into meaningful stories. In me, technology finds its muse, and together, we paint the digital canvas with innovation and creativity.
 
