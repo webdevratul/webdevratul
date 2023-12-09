@@ -10,7 +10,7 @@ Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Node.js, Expre
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=webdevratul)  
 
-- 🌱 I’m Still learning Web Developemnt.
+
 
 
 
