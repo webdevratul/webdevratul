@@ -7,7 +7,7 @@
 
 Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Node.js, Express.js, Firebase, MongoDB
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,node,express,mongodb,firebse)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,Node.js,express,mongodb,firebse)](https://skillicons.dev)
 
 
 ## 📧 Reach me at:  mahibulislamratul@gmail.com
