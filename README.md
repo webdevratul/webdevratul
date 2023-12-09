@@ -6,11 +6,7 @@
 
 Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Node.js, Express.js, Firebase, MongoDB
 
-- 🌱 I’m currently learning Web Developemnt 
-- 👯 I’m looking to collaborate on Git-Hub 
-- 🤔 I’m looking for help with Other Persons 
-- 💬 Ask me about Web Developemt 
-
+- 🌱 I’m Still learning Web Developemnt.
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/webdevratul)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/TheMahibulislam)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/mahibul_islam_ratul//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/MahibulRatul)  
 
