@@ -11,7 +11,7 @@ Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Node.js, Expre
 
 
 ## 📧 Reach me at:  webdevratul38@gmail.com
-<h3 style="font-size: 18px; text-align: left;">Connect with me:</h3>
+<h3 style="font-size: 25px; font-weight: bold; text-align: left;">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@mahibulratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahibulratul" height="30" width="40" /></a>
 <a href="https://fb.com/themahibulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themahibulislam" height="30" width="40" /></a>
