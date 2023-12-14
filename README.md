@@ -13,6 +13,7 @@ Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, Node.js, Expre
 ## 📧 Reach me at:  webdevratul38@gmail.com
 
 <p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/ratul-akon-0571b02a5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ratul-akon-0571b02a5/" height="30" width="40" /></a>
 <a href="https://twitter.com/@mahibulratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@mahibulratul" height="30" width="40" /></a>
 <a href="https://fb.com/themahibulislam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="themahibulislam" height="30" width="40" /></a>
 <a href="https://instagram.com/mahibul_islam_ratul" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mahibul_islam_ratul" height="30" width="40" /></a>
