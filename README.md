@@ -3,7 +3,7 @@
 # Front-End Web Application Developer 👨‍💻
 ![This Is Mahibul Islam Ratul](https://github.com/webdevratul/webdevratul/blob/main/gitbanner.png)
 
-# 🌐 Hello, I'm a Front-End Architect and React Maestro! 👋
+
 
 I specialize in crafting seamless web applications using HTML, CSS, and the magic of JavaScript.
 
@@ -29,7 +29,7 @@ Embark on a coding journey with me! Whether it's creating something from scratch
 
 ---
 
-
+Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, TypeScript, Redux, Next.js, Node.js, Express.js, Firebase, MongoDB
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript,redux,next,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
 
