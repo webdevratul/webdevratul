@@ -15,8 +15,6 @@
 
 🚀 Let's embark on a coding journey together. Whether it's creating something from scratch or conquering challenges, I'm ready to code and create wonders!
 
-Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, TypeScript, Redux, Next.js, Node.js, Express.js, Firebase, MongoDB
-
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript,redux,next,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
