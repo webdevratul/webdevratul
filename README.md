@@ -10,7 +10,7 @@
 
 🤝 Collaboration is at the heart of my approach. Whether it's brainstorming a new feature, troubleshooting a challenge, or optimizing performance, I believe in the power of teamwork and collective growth.💡Always eager to explore the next frontier of web technologies and trends, I'm on a continuous journey of learning and adaptation. Let's connect, collaborate, and create groundbreaking web solutions together! 🌐
 
-### Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, TypeScript, Redux, Next.js, Node.js, Express.js, Firebase, MongoDB
+### Skills: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap, React.js, TypeScript, Redux, Next.js, Node.js, Express.js, Firebase, MongoDB!
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,react,tailwind,bootstrap,typescript,redux,next,nodejs,express,mongodb,firebase)](https://skillicons.dev)
 
 
